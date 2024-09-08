@@ -6,9 +6,9 @@
 
 - 🌱 Currently learning More About **Python, Power-shell,Security Onion**
 
-- 👯 Open to work on any IT projects **Any Project**
+- 👯 Open to work on any **Any IT Project**
 
-- 🤝 I’m looking for help with **SQLight**
+- 🤝 I’m looking for help with **SQLight, BeautifulSoup**
 
 - 📫 How to reach me anytime **dev.a.yekeh@gmail.com**
 
