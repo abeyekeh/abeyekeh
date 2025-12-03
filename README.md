@@ -1,5 +1,5 @@
 <h1 align="center">Abel Yekeh M.B.A</h1>
-<h3 align="center">IT Support</h3>
+<h3 align="center">Yardi Database Manager</h3>
 
 
 - 🔭 Graduate From **Strayer University M.B.A**
